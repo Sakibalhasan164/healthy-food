@@ -1,0 +1,44 @@
+body{    
+        font-family: 'Inconsolata', monospace;
+        margin: 70px;
+}
+h1{
+    font-size: 50px;
+}
+.orange{
+    color: orange;
+}
+.picture{
+    padding-left: 3%;
+    width: 80%;
+    height: 500px;
+}
+.picture1{
+    padding-left: 35%;
+    padding-top: 25%;
+    width: 50%;
+    height: 500px;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 130px;
+}
+.half-width{
+    padding-left: 3%;
+    width: 80%; 
+}
+       
+.top-banner{
+    background-image: url(shapes/7.png);
+    
+}
+
+.link-button{
+    text-decoration: none;
+    background-color: rgba(248, 9, 9, 0.74);
+    padding: 10px 40px;
+    border-radius: 30px;
+    font-weight: 800;    
+    background-image:(hsl(10, 94%, 50%),orange);
+    margin-top: 10px;
+}
